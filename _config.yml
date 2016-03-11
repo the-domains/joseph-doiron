@@ -1,0 +1,28 @@
+name: Joseph Doiron
+favicon: null
+layout_spectrum: 0.44749063556082547
+typography_spectrum: 0.05908110039308667
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.09701752453111112
+  lightness: 0.20357083738781512
+  saturation: 0.3488017830532044
+  rhythmicContrast: 0.9318854429293424
+purpose: []
